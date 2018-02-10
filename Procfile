@@ -1,1 +1,1 @@
-web: cd fuseki && ./fuseki-server --config=assembler.ttl
+web: cd fuseki && ./fuseki-server --config=assembler.ttl --port=8080
