@@ -1,1 +1,1 @@
-web: ./fuseki-server --config=assembler.ttl
+web: ./fuseki-server --config=assembler.ttl --port=$PORT
