@@ -1,1 +1,1 @@
-web: ./fuseki.sh
+web: cd fuseki && ./fuseki-server --config=assembler.ttl
