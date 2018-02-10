@@ -31,7 +31,7 @@ text:TextIndexSolr    rdfs:subClassOf   text:TextIndex .
 
 # A TDB datset used for RDF storage
 <#dataset> rdf:type      tdb:DatasetTDB ;
-    tdb:location "../wado/ontology" ;
+    tdb:location "../ontology" ;
     tdb:unionDefaultGraph true ; # Optional
     .
 
