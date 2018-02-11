@@ -1,1 +1,1 @@
-web: git clone https://github.com/wadoteam/ontology.git ontologyFiles && ./fuseki-server --config=assembler.ttl --port=$PORT
+web: ./fuseki-server --config=assembler.ttl --port=$PORT
